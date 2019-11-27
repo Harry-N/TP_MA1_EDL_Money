@@ -4,6 +4,7 @@
 package be.ac.umons;
 public class Money {
 
+
     private int amount;
     private String currency;
 
